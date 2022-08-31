@@ -13,17 +13,18 @@ PROJECTS COMPLETED -:
  - Angular, Rest angular, CodeIgniter, Laravel, JavaScript, MySQL, Docker, Git Hub, Agile Process, AWS and JIRA.
 
 -Club Management System (Full Stack Development)
- - Angular Material, Laravel, Postman, PostgreSQL, Docker and Git Hub.
+ - Angular Material, Laravel, Postman, PostgreSQL, JIRA, Docker and Git Hub.
  
 -API integrations (For React Native Mobile App)
  - Laravel, Postman, React Native, MySQL, AWS, Docker and JIRA.
 
 SKILLS POSSESSED IN TECHNOLOGIES-:
-- Java Script, React JS, Angular, PHP, Laravel, CodeIgniter, HTML 5 & CSS 3.
-- My SQL & MS SQL.
-- AWS & Azure.
-- Git Hub, Docker, Postman & JIRA.
-- Adobe Photoshop CC & Adobe Illustrator CC.
+- Java Script, React JS, Next JS, Angular, HTML 5, CSS 3.
+- PHP, Laravel, CodeIgniter.
+- My SQL, MS SQL, PostgreSQL.
+- AWS, Azure.
+- Git Hub, Docker, JIRA, Swagger, Postman.
+- Adobe XD, Figma, Photoshop CC & Illustrator CC.
 
 <!---
 Aadhil941/Aadhil941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
