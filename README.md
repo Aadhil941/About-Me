@@ -13,7 +13,7 @@ PROJECTS COMPLETED -:
  - Angular, Rest angular, CodeIgniter, Laravel, JavaScript, MySQL, Docker, Git Hub, Agile Process, AWS and JIRA.
 
 -Club Management System (Full Stack Development)
- - Angular Material, Laravel, Postman, PostgreSQL, JIRA, Docker and Git Hub.
+ - Angular Material, Laravel, Postman, PostgreSQL, JIRA, Jibble - Time tracker, Docker and Git Hub.
  
 -API integrations (For React Native Mobile App)
  - Laravel, Postman, React Native, MySQL, AWS, Docker and JIRA.
