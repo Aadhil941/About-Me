@@ -13,7 +13,7 @@ PROJECTS COMPLETED -:
  - Angular, Rest angular, CodeIgniter, Laravel, JavaScript, MySQL, Docker, Git Hub, Agile Process, AWS and JIRA.
 
 -Club Management System (Full Stack Development)
- - Angular Material, Laravel, Postman, PostgreSQL, JIRA, Jibble - Time tracker, Docker and Git Hub.
+ - Angular Material, Laravel, Postman, PostgreSQL, JIRA, Jibble, Docker and Git Hub.
  
 -API integrations (For React Native Mobile App)
  - Laravel, Postman, React Native, MySQL, AWS, Docker and JIRA.
@@ -23,7 +23,7 @@ SKILLS POSSESSED IN TECHNOLOGIES-:
 - PHP, Laravel, CodeIgniter.
 - My SQL, MS SQL, PostgreSQL.
 - AWS, Azure.
-- Git Hub, Docker, JIRA, Swagger, Postman.
+- Git Hub, Docker, JIRA, Jibble, Swagger, Postman.
 - Adobe XD, Figma, Photoshop CC & Illustrator CC.
 
 <!---
