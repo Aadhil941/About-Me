@@ -18,6 +18,10 @@ PROJECTS COMPLETED -:
 -API integrations (For React Native Mobile App)
  - Laravel, Postman, React Native, MySQL, AWS, Docker and JIRA.
 
+CERTIFICATES-:
+- React: Creating and Hosting a Full-Stack Site - LinkedIn (2023)
+- MySQL Advanced Topics - LinkedIn (2023)
+
 SKILLS POSSESSED IN TECHNOLOGIES-:
 - Java Script, React JS, Next JS, Angular.
 - PHP, Laravel, CodeIgniter.
@@ -25,6 +29,7 @@ SKILLS POSSESSED IN TECHNOLOGIES-:
 - AWS, Azure.
 - Git Hub, Docker, JIRA, Jibble, Swagger, Postman.
 - Adobe XD, Figma, Photoshop CC & Illustrator CC.
+
 
 <!---
 Aadhil941/Aadhil941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
