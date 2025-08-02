@@ -1,31 +1,39 @@
-Hi, I am Aadhil Ahamad.
-I hold a Bachelor’s Degree with Computer Science from the University of Peradeniya and a Diploma in Information Technology from the University of Colombo School of Computing.
+### 👋 About Me
 
-With over five years of experience in Full-Stack web development, I have honed my skills across various technologies, including frontend, backend, API services, database management, and object-oriented principles.
+Hi, I’m **Aadhil Ahamad**, a passionate **Senior Software Engineer** with over **5 years of hands-on experience** in full-stack web development. I hold a **Bachelor’s Degree in Computer Science** from the **University of Peradeniya**, along with a **Diploma in Information Technology** from the **University of Colombo School of Computing**.
 
-PROJECTS COMPLETED -:
-- QHSE: Full-Stack Development using Angular, Laravel, JIRA, MySQL, Sentry, Docker, and GitHub.
-- Hotel Management System: Frontend Development with React JS, Next JS, .NET Core, MS SQL, Docker, Scrum, Azure Blob Storage, Swagger, and Adobe XD.
-- School Management System: Full-Stack Development utilizing Angular, JavaScript, CodeIgniter, Laravel, MySQL, Docker, GitHub, AWS, and JIRA.
-- Club Management System: Full-Stack Development with Angular Material, Laravel, Node, Express, Postman, PostgreSQL, JIRA, Sentry, Jibble, Docker, and GitHub.
-- API Integrations: For a React Native Mobile App using Laravel, Postman, React Native, MySQL, AWS, Docker, and JIRA.
+I specialize in designing, building, and optimizing scalable web applications. My expertise spans **frontend and backend development**, **RESTful API services**, **database architecture**, and modern **DevOps practices**.
 
-CERTIFICATES-:
-- React: Creating and Hosting a Full-Stack Site - LinkedIn (2023).
-- MySQL Advanced Topics - LinkedIn (2023).
+---
 
-SKILLS POSSESSED IN TECHNOLOGIES-:
-- Frontend Development: Angular, React JS, Next JS, JavaScript.
-- Backend Development: Laravel, Node, Express, CodeIgniter.
-- Database Management: MongoDB, MySQL, MS SQL, PostgreSQL.
-- DevOps & Tools: Docker, JIRA, Azure, AWS, Git, Linux, VM, Bash Script, Jenkins, CI/CD.
-- API & Integration: Swagger, Jibble, Sentry, Postman, IIS.
-- Design Tools: Adobe XD, Figma, Photoshop.
+### 🧠 Tech Expertise
 
-  I am committed to staying current with emerging technologies and strive to write robust, efficient code for both frontend and backend applications. My ability to manage time effectively and adapt to new programming languages ensures I can meet the evolving needs of the industry.
+* **Frontend**: Angular, React.js, Next.js, JavaScript
+* **Backend**: Laravel, Node.js, Express.js, CodeIgniter
+* **Databases**: MySQL, PostgreSQL, MongoDB, MS SQL
+* **DevOps & Tools**: Docker, Jenkins, Git, AWS, Azure, JIRA, CI/CD, Linux, Bash
+* **API & Integrations**: Swagger, Postman, Sentry, Jibble, IIS
+* **UI/UX & Design**: Adobe XD, Figma, Photoshop
 
+---
 
-<!---
-Aadhil941/Aadhil941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 Key Projects
+
+* **QHSE System**: Full-stack solution using Angular, Laravel, MySQL, Docker, and Sentry
+* **Hotel Management System**: Frontend built with React, Next.js, .NET Core, and MS SQL
+* **School Management System**: Complete system using Angular, Laravel, CodeIgniter, AWS
+* **Club Management Platform**: Full-stack app with Angular Material, Node.js, PostgreSQL
+* **API Integrations**: For React Native mobile app using Laravel and AWS services
+
+---
+
+### 📜 Certifications
+
+* **React: Creating and Hosting a Full-Stack Site** – LinkedIn (2023)
+* **MySQL Advanced Topics** – LinkedIn (2023)
+
+---
+
+### 🚀 What Drives Me
+
+I’m deeply committed to continuous learning and leveraging emerging technologies to build high-quality, maintainable software. I thrive in fast-paced environments, enjoy solving complex problems, and take pride in writing clean, efficient code that delivers real-world value.
